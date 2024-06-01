@@ -36,11 +36,11 @@ Förväntat resultat:
 
 
 Acceptanstest 3: Avsluta programmet
-Instruktioner:
+    Instruktioner:
 
-Öppna applikationen.
-Skriv in 3 för att välja att "Avsluta programmet" och tryck Enter.
+    Öppna applikationen.
+    Skriv in 3 för att välja att "Avsluta programmet" och tryck Enter.
 
 Förväntat resultat:
-Applikationen avslutas utan att skriva ut ytterligare meddelande
+    Applikationen avslutas utan att skriva ut ytterligare meddelande
 
