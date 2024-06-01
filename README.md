@@ -29,12 +29,9 @@ Instruktioner:
 Förväntat resultat:
 
     Applikationen skriver ut historiken med den tidigare beräkningen:
-
-
-Beräkningar:
-10 - 4 = 6
-
-Applikationen återgår till huvudmenyn.
+    Beräkningar:
+    10 - 4 = 6
+    Applikationen återgår till huvudmenyn.
 
 
 
