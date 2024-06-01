@@ -42,5 +42,6 @@ Acceptanstest 3: Avsluta programmet
     Skriv in 3 för att välja att "Avsluta programmet" och tryck Enter.
 
 Förväntat resultat:
+
     Applikationen avslutas utan att skriva ut ytterligare meddelande
 
